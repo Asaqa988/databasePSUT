@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-07T20:56:12 GMT+03:00" name="Default suite" finished-at="2025-05-07T20:56:15 GMT+03:00" duration-ms="3369">
+    <groups>
+    </groups>
+    <test started-at="2025-05-07T20:56:12 GMT+03:00" name="Default test" finished-at="2025-05-07T20:56:15 GMT+03:00" duration-ms="3369">
+      <class name="MyPackage.MyTestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:MyPackage.MyTestCases@6475472c]" started-at="2025-05-07T20:56:12 GMT+03:00" name="mySetup" finished-at="2025-05-07T20:56:15 GMT+03:00" duration-ms="2897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="AddNewCustomer()[pri:1, instance:MyPackage.MyTestCases@6475472c]" started-at="2025-05-07T20:56:15 GMT+03:00" name="AddNewCustomer" finished-at="2025-05-07T20:56:15 GMT+03:00" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewCustomer -->
+        <test-method signature="UpdateCustomerInfo()[pri:2, instance:MyPackage.MyTestCases@6475472c]" started-at="2025-05-07T20:56:15 GMT+03:00" name="UpdateCustomerInfo" finished-at="2025-05-07T20:56:15 GMT+03:00" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateCustomerInfo -->
+        <test-method signature="ReadTheUpdatedData()[pri:3, instance:MyPackage.MyTestCases@6475472c]" started-at="2025-05-07T20:56:15 GMT+03:00" name="ReadTheUpdatedData" finished-at="2025-05-07T20:56:15 GMT+03:00" duration-ms="408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadTheUpdatedData -->
+        <test-method signature="DeleteCustomer()[pri:4, instance:MyPackage.MyTestCases@6475472c]" started-at="2025-05-07T20:56:15 GMT+03:00" name="DeleteCustomer" finished-at="2025-05-07T20:56:15 GMT+03:00" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteCustomer -->
+      </class> <!-- MyPackage.MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
